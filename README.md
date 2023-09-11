@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Young Ji @tuenyj
 - 🌱 I’m currently a student of business analytics
 - 🧠 I’m looking to dive deeper into data science
+- 🌞 Based in Vancouver, BC. Loves yoga, watching interesting documentaries, and exploring the great outdoors
 - 📫 How to reach me: [Linkedin! ](https://www.linkedin.com/in/youngjituen/)
 
 <!---
